@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+I'm Lancy Goyal. smile I'm a Michael Yemi Folayan, Passionate FullStack Software Engineer. telescope I have experience in understanding and analyzing the software engineering problems and implementing them. seedling Technologies that I have used to develop apps are Javascript, React.js, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js, Vue.js, PWA, Spring Boot, MongoDB, Next.js, Electron, Cordova, AWS, Firebase, Microservices, Git, and WooCommece, Wordpress. dancers My interests range from Technology to Entrepreneurship. zap I am a technology driven person with an immense interest in Software Engineering Problems and Designs.
+
+
+
 <!--
 **YemmyFolayan/YemmyFolayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
