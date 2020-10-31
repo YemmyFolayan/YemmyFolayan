@@ -3,7 +3,7 @@
 #### 💬I'm Michael Yemi Folayan,📫 Passionate FullStack Software Engineer. ⚡ I have experience in understanding and analyzing the software engineering problems and implementing them. 🔭 Technologies that I have used to develop apps are Javascript, React.js, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js, Vue.js, PWA, Spring Boot, MongoDB, Next.js, Electron, Cordova, AWS, Firebase, Microservices, Git, and WooCommece, Wordpress, FIGMA, Adobe XD. My interests range from Technology to Entrepreneurship. I am a technology driven person with an immense interest in Software Engineering Problems and Designs.
 
 
-📫 How to reach me?
+### 📫 How to reach me?   +2348103817187
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/geekfolayanyemi)](https://twitter.com/geekfolayanyemi)
 
