@@ -5,15 +5,15 @@
 
 📫 How to reach me?
 
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/geekfolayanyemi)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/geekfolayanyemi)](https://twitter.com/geekfolayanyemi)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/folayan-yemi/)
 
-[![Facebook Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.facebook.com/folayan.yemi)
+[![Facebook Badge](https://img.shields.io/badge/facebook-Folayan%20Yemi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/folayan.yemi\)](https://www.facebook.com/folayan.yemi)
 
-[![Instagram Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.instagram.com/ym___f/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Folayan%20Yemi-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/ym___f/)](https://www.instagram.com/ym___f/)
 
+##https://michaelfolayan.netlify.com/
 <!--
 **YemmyFolayan/YemmyFolayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
