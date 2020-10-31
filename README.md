@@ -9,11 +9,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/folayan-yemi/)
 
-[![Facebook Badge](https://img.shields.io/badge/facebook-Folayan%20Yemi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/folayan.yemi)](https://www.facebook.com/folayan.yemi)
+[![Facebook Badge](https://img.shields.io/badge/facebook-Folayan%20Yemi-blue?style=flat-square&link=https://www.facebook.com/folayan.yemi)](https://www.facebook.com/folayan.yemi)
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Folayan%20Yemi-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/ym___f/)](https://www.instagram.com/ym___f/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Folayan%20Yemi-red?style=flat-square&link=https://www.instagram.com/ym___f/)](https://www.instagram.com/ym___f/)
 
-[![PORTFOLIO](https://img.shields.io/badge/YMF-PORFOLIO%20WEBSITE-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://michaelfolayan.netlify.com/)](https://michaelfolayan.netlify.com/)
+[![PORTFOLIO](https://img.shields.io/badge/YMF-PORFOLIO%20WEBSITE-green?style=flat-square&link=https://michaelfolayan.netlify.com/)](https://michaelfolayan.netlify.com/)
 
 
 
