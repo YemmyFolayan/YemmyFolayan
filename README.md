@@ -11,7 +11,7 @@
 
 [![Facebook Badge](https://img.shields.io/badge/facebook-Folayan%20Yemi-blue?style=flat-square&link=https://www.facebook.com/folayan.yemi)](https://www.facebook.com/folayan.yemi)
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Folayan%20Yemi-red?style=flat-square&link=https://www.instagram.com/ym___f/)](https://www.instagram.com/ym___f/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Folayan%20Yemi-red?style=flat-square&link=https://www.instagram.com/folla_yemi/)](https://www.instagram.com/folla_yemi/)
 
 [![PORTFOLIO](https://img.shields.io/badge/YMF-PORFOLIO%20WEBSITE-green?style=flat-square&link=https://michaelfolayan.netlify.com/)](https://michaelfolayan.netlify.com/)
 
