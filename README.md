@@ -20,8 +20,7 @@
 [![Subscribe my Channel](https://img.shields.io/badge/-YouTube-ff0000?style=flat&amp;labelColor=white&amp;logo=youtube&amp;logoColor=ff0000)](https://www.youtube.com/channel/UCMcHO99n8_YxRnG1UguaDJw?sub_confirmation=1)
 [![Twitter followers](https://img.shields.io/twitter/follow/softfolayanyemi?style=social)](https://twitter.com/intent/follow?screen_name=softfolayanyemi)
 
-<hr>
-<br>
+
 # `🏆 Algorithm Playground 🏆`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/michaelfolayan/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/michaelfolayan/practice/)
