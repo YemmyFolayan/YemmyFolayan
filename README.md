@@ -1,4 +1,6 @@
 ### Hi Savvy 🏆
+<hr>
+<br>
 
 #### 💬I'm Michael Yemi Folayan,📫 Passionate FullStack Software Engineer. ⚡ I have experience in understanding and analyzing the software engineering problems and implementing them. 🔭 Technologies that I have used to develop apps are Javascript, React.js,Flutter, Typescript, C#, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js, Vue.js, PWA, Spring Boot, MongoDB, Next.js, Electron, Cordova, AWS, Firebase, Microservices, Git, and WooCommece, Wordpress, FIGMA, Adobe XD. My interests range from Technology to Entrepreneurship. I am a technology driven person with an immense interest in Software Engineering Problems and Designs.
 
@@ -9,19 +11,17 @@
 [![Connect on WhatsApp](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=darkgreen)](https://wa.me/2348103817187)
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/folayan-yemi/)
 [![PORTFOLIO](https://img.shields.io/badge/YMF-PORFOLIO%20WEBSITE-green?style=flat-square&link=https://michaelfolayan.netlify.com/)](https://michaelfolayan.netlify.com/)
-
-
 [![Connect on Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&amp;labelColor=white&amp;logo=telegram&amp;logoColor=1ca0f1)](https://t.me/geekfolayanyemi)
 [![Connect on Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=blue)](https://www.facebook.com/folayan.yemi/)
 [![Connect on Instragram](https://img.shields.io/badge/-Instagram-f3013b?style=flat&amp;labelColor=white&amp;logo=instagram&amp;logoColor=e84393)](https://www.instagram.com/michael_folayan/)
 [![Connect on Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&amp;labelColor=white&amp;logo=twitter&amp;logoColor=1ca0f1&amp)](https://twitter.com/softfolayanyemi)
-
 [![Connect on Outlook](https://img.shields.io/badge/O-michaelfolayan%40outlook.com-blue)](mailto:michaelfolayan@outlook.com)
 [![Connect on Medium](https://img.shields.io/badge/-Medium-black?style=flat&amp;labelColor=white&amp;logo=medium&amp;logoColor=black)](https://medium.com/@yemmyfolayan)
 [![Subscribe my Channel](https://img.shields.io/badge/-YouTube-ff0000?style=flat&amp;labelColor=white&amp;logo=youtube&amp;logoColor=ff0000)](https://www.youtube.com/channel/UCMcHO99n8_YxRnG1UguaDJw?sub_confirmation=1)
-
-
 [![Twitter followers](https://img.shields.io/twitter/follow/softfolayanyemi?style=social)](https://twitter.com/intent/follow?screen_name=softfolayanyemi)
+
+<hr>
+<br>
 # `🏆 Algorithm Playground 🏆`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/michaelfolayan/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/michaelfolayan/practice/)
