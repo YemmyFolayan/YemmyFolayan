@@ -14,13 +14,13 @@
 [![Connect on Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=blue)](https://www.facebook.com/folayan.yemi/)
 [![Connect on Instragram](https://img.shields.io/badge/-Instagram-f3013b?style=flat&amp;labelColor=white&amp;logo=instagram&amp;logoColor=e84393)](https://www.instagram.com/michael_folayan/)
 [![Connect on Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&amp;labelColor=white&amp;logo=twitter&amp;logoColor=1ca0f1&amp)](https://twitter.com/softfolayanyemi)
-[![Twitter followers](https://img.shields.io/twitter/follow/akashsingh3031?style=social)](https://twitter.com/intent/follow?screen_name=akashsingh3031)
+
 [![Connect on Outlook](https://img.shields.io/badge/O-michaelfolayan%40outlook.com-blue)](mailto:michaelfolayan@outlook.com)
 [![Connect on Medium](https://img.shields.io/badge/-Medium-black?style=flat&amp;labelColor=white&amp;logo=medium&amp;logoColor=black)](https://medium.com/@yemmyfolayan)
 [![Subscribe my Channel](https://img.shields.io/badge/-YouTube-ff0000?style=flat&amp;labelColor=white&amp;logo=youtube&amp;logoColor=ff0000)](https://www.youtube.com/channel/UCMcHO99n8_YxRnG1UguaDJw?sub_confirmation=1)
 
 
-
+[![Twitter followers](https://img.shields.io/twitter/follow/softfolayanyemi?style=social)](https://twitter.com/intent/follow?screen_name=softfolayanyemi)
 # `🏆 Algorithm Playground 🏆`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/michaelfolayan/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/michaelfolayan/practice/)
