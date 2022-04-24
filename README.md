@@ -10,7 +10,7 @@
 
 [![Connect on WhatsApp](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=darkgreen)](https://wa.me/2348103817187)
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/folayan-yemi/)
-[![PORTFOLIO](https://img.shields.io/badge/-HackerEarth-darkblue?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=darkblue)](https://michaelfolayan.netlify.com/)
+[![PORTFOLIO](https://img.shields.io/badge/-HackerEarth-darkblue?style=flat&amp;labelColor=white&amp;logo=portfolio&amp;logoColor=darkblue)](https://michaelfolayan.netlify.com/)
 [![Connect on Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&amp;labelColor=white&amp;logo=telegram&amp;logoColor=1ca0f1)](https://t.me/geekfolayanyemi)
 [![Connect on Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=blue)](https://www.facebook.com/folayan.yemi/)
 [![Connect on Instragram](https://img.shields.io/badge/-Instagram-f3013b?style=flat&amp;labelColor=white&amp;logo=instagram&amp;logoColor=e84393)](https://www.instagram.com/michael_folayan/)
