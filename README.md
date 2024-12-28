@@ -31,6 +31,18 @@
 <br>
 <hr>
 <br>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YemmyFolayan&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YemmyFolayan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 ### 📫 How to reach me?   
 <br>
 Mobile 📲 :+2348103817187
