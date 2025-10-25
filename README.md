@@ -2,7 +2,11 @@
 <hr>
 <br>
 
-#### I'm Michael Yemi Folayan,📫 Passionate FullStack Software Engineer. ⚡ I have experience in understanding and analyzing the software engineering problems and implementing them. 🔭 Technologies that I have used to develop apps are Web3, Blockchain, Javascript, React.js,Flutter, Typescript, C#, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js, Vue.js, PWA, Spring Boot, MongoDB, Next.js, Electron, Cordova, AWS, Firebase, Microservices, Git, and WooCommece, Wordpress, FIGMA, Adobe XD. My interests range from Technology to Entrepreneurship. I am a technology driven person with an immense interest in Software Engineering Problems and Designs.
+#### I'm Michael Yemi Folayan,📫 Passionate FullStack Software Engineer. 
+
+A driven and curious first-class graduate of Computer Science. Known for my analytical skills and innovative approach to solving complex problems, I am eager to contribute to cutting-edge research. I thrive in collaborative environments, leveraging my ability to work effectively within diverse teams to tackle challenging projects. My passion for pursuing a career in academia and computing is matched by my commitment to lifelong learning and dedication to making meaningful contributions to the field.
+
+⚡ I have experience in understanding and analyzing the software engineering problems and implementing them. 🔭 Technologies that I have used to develop apps are Web3, Blockchain, Javascript, React.js,Flutter, Typescript, C#, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js, Vue.js, PWA, Spring Boot, MongoDB, Next.js, Electron, Cordova, AWS, Firebase, Microservices, Git, and WooCommece, Wordpress, FIGMA, Adobe XD. My interests range from Technology to Entrepreneurship. I am a technology driven person with an immense interest in Software Engineering Problems and Designs.
 
 <hr>
 <br>
