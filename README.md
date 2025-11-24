@@ -9,6 +9,10 @@ A driven and curious first-class graduate of Computer Science. Known for my anal
 ⚡ I have experience in understanding and analyzing the software engineering problems and implementing them. 🔭 Technologies that I have used to develop apps are Web3, Blockchain, Javascript, React.js,Flutter, Typescript, C#, React Native, Redux, GraphQL, Node.js, Hapi.js, Socket.io, Express.js, Meteor.js, Vue.js, PWA, Spring Boot, MongoDB, Next.js, Electron, Cordova, AWS, Firebase, Microservices, Git, and WooCommece, Wordpress, FIGMA, Adobe XD. My interests range from Technology to Entrepreneurship. I am a technology driven person with an immense interest in Software Engineering Problems and Designs.
 
 <hr>
+## Research Interests
+Artificial Intelligence,  Machine Learning, Cloud Computing, Edge Computing, Embedded Systems, Computer Networks, Database Systems, Bioinformatics, Internet of Things (IoT), Embedded and Real-Time Systems, Cybersecurity, Robotics, Quantum Computing, Distributed Systems.
+
+<hr>
 <br>
 
 
