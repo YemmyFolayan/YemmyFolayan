@@ -12,7 +12,6 @@ I have experience in understanding and analyzing software engineering problems a
 
 **Research Interests**
 
-<br>
 Artificial Intelligence,  Machine Learning, Cloud Computing, Edge Computing, Embedded Systems, Computer Networks, Database Systems, Bioinformatics, Internet of Things (IoT), Embedded and Real-Time Systems, Cybersecurity, Robotics, Quantum Computing, Distributed Systems.
 
 <hr>
