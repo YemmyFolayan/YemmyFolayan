@@ -1,4 +1,4 @@
-Welcome 🤝, I'm Michael Yemi Folayan, a passionate Researcher & Software Engineer. 
+Welcome 🤝, I'm Michael Yemi Folayan, a passionate Computer Vision and Bioinformatics Researcher & Software Engineer. 
 
 A driven and curious first-class graduate of Computer Science. Known for my analytical skills and innovative approach to solving complex problems, I am eager to contribute to cutting-edge research. I thrive in collaborative environments, leveraging my ability to work effectively within diverse teams to tackle challenging projects. My passion for pursuing a career in academia and computing is matched by my commitment to lifelong learning and dedication to making meaningful contributions to the field.
 
